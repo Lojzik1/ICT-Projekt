@@ -10,7 +10,7 @@ header{
 
 li{
     display: inline-block;
-    font-size: 70px;
+    font-size: 50px;
     margin-right: 10px;
     flex-basis: 50%;
     text-align: center;
@@ -38,8 +38,8 @@ ul li a:hover{
 }
 .center{
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 0%;
+    left: 0%;
     width: 100%;
     height: 100%;
 }
@@ -49,7 +49,7 @@ ul li a:hover{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 500px;
+    font-size: 300px;
     color: #00FFFF;
     -webkit-text-stroke: 10px black;
     font-family: 'Kanit', sans-serif;
@@ -60,7 +60,7 @@ ul li a:hover{
     width: 500px;
     height: 100px;
     margin: auto;
-    margin-top: 1200px;
+    margin-top: 40%;
     background-color: #00FFFF;
     border-style: solid;
     border-color: black;
