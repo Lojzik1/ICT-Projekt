@@ -8,3 +8,4 @@ function loadPage(page) {
     xhttp.open("GET", page, true);
     xhttp.send();
 }
+//test
