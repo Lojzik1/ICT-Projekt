@@ -83,13 +83,22 @@ ul li a:hover{
 }
   
 @media only screen and (max-width: 1200px) {
-    .all{
-      width: 15%;
-      height: 20%;
+    header{
+        padding: 1%;
+    }
+
+    li{
+      margin-right: 1%;
+      flex-basis: 50%;
+      font-size: 4vw;
     }
 
     .box{
-        margin-top: 65%;
+        margin-top: 60vh;
+        height: auto;
+    }
+
+    .text-download{
+        margin-top: 1%;
     }
 }
-
